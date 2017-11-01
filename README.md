@@ -2,13 +2,14 @@
 
 This repository contains Stata do-files that clean and analyze data from
 pre-post tests conducted with learners participating in Evidence for Policy
-Design's [Building Capacity to Use Research Evidence Program]
-(https://epod.cid.harvard.edu/bcure). 
+Design's 
+[Building Capacity to Use Research Evidence](https://epod.cid.harvard.edu/bcure)
+Program. 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md]
-(LICENSE.md) file for details
+This project is licensed under the MIT License - see the 
+[LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
