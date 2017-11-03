@@ -13,5 +13,7 @@ This project is licensed under the MIT License - see the
 
 ## Acknowledgments
 
-* Many thanks to all those at EPoD who helped support BCURE as well as UK Aid
-which generously provided funding for the program.
+* Significant thanks to UK Aid from the UK Government which generously provided
+funding for the program.
+
+* Many thanks to all those at EPoD who helped support BCURE.
